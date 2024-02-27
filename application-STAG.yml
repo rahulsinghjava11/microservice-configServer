@@ -1,6 +1,6 @@
-spring:
-  application:
-    name: CONFIG-STAG
+# spring:
+#   application:
+#     name: CONFIG-STAG
 eureka:
   instance:
     prefer-ip-address: true
