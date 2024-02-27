@@ -1,6 +1,6 @@
-spring:
-  application:
-    name: CONFIG-UAT
+# spring:
+#   application:
+#     name: CONFIG-UAT
 eureka:
   instance:
     prefer-ip-address: true
